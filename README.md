@@ -32,11 +32,14 @@ Este repositório contém a documentação, os arquivos de modelagem e o código
 
 ## 📂 Estrutura do Repositório
 
-├── /hardware        # Arquivos STL para impressão 3D e esquemas de circuitos
-├── /software        # Códigos de rastreamento e integração
-├── /unity           # Cenários de teste desenvolvidos na Unity
-├── /docs            # Manuais de montagem, relatórios e artigos científicos
-└── README.md        # Este arquivo informativo
+
+```text
+├── /hardware       # Arquivos STL para impressão 3D e esquemas de circuitos
+├── /software       # Códigos de rastreamento e integração
+├── /unity          # Cenários de teste desenvolvidos na Unity
+├── /docs           # Manuais de montagem, relatórios e artigos científicos
+└── README.md       # Este arquivo informativo
+```
 
 ---
 
