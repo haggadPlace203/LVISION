@@ -43,6 +43,16 @@ Este repositório contém a documentação, os arquivos de modelagem e o código
 
 ---
 
+## 👨‍💻 Sobre o projeto
+
+DADOS DA MPU
+
+<img src="img/MPU_3D_DATA.jpg" alt="Texto Alternativo" width="50%">
+
+PROJETO
+
+<img src="img/PROTOTYPE.png" alt="Texto Alternativo" width="50%">
+
 ## 🚀 Como Iniciar
 
 Ainda em desenvolvimento
