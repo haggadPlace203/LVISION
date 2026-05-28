@@ -1,7 +1,7 @@
-# Óculos VVR de Baixo Custo 🕶️🏗️
+# Óculos VR de Baixo Custo 🕶️🏗️
 
-> **Laboratório de Engenharia Virtual, Ambientes Imersivos e Simulação (LVIS)**  
-> **Departamento de Engenharia Civil e Ambiental (ENC)**  
+> **Laboratório de Laboratório de Visualização, Interação e Simulação (LVIS)**  
+> **Departamento de Engenharia Civil**  
 > **Universidade de Brasília (UnB)**
 
 Este repositório contém a documentação, os arquivos de modelagem e o código-fonte para o desenvolvimento de um protótipo de Óculos de Realidade Virtual de baixo custo. O projeto foi idealizado e construído por alunos da UnB para aplicação em visualização de modelos BIM, segurança do trabalho e simulações de canteiros de obras.
