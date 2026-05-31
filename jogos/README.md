@@ -1,4 +1,4 @@
-# [Nome do Jogo/Projeto]
+# Jogo para LineageOS
 
 Uma aplicação de jogo desenvolvida em Unity, otimizada para o sistema operacional Android rodando em hardware Raspberry Pi.
 
