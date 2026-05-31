@@ -31,8 +31,7 @@ Para que o Raspberry Pi se comunique com a MPU6050, as conexões físicas devem 
 
 ## 👨‍💻 Sobre o projeto
 
-PINAGEM
-<img src="RASPBERY_PI_PINAGEM.png" alt="Texto Alternativo" width="50%">
+<img src="RASPBERY_PI_PINAGEM.png" alt="https://embarcados.com.br/placa/raspberry-pi-4/" width="50%">
 
 ---
 
